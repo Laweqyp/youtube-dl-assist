@@ -1,7 +1,7 @@
 # youtube-dl-assist
 Download videos through youtube-dl with less operations and commands
 ***
-### 中文:[README_zh_cn](blob/master/README_zh_cn.md)
+### 中文:[README_zh_cn](/README_zh_cn.md)
 ### THIS IS NOT A GUI FOR youtube-dl
 A little tool which assembleed some frequently used commands   
 Mainly for self use   
