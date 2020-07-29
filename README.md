@@ -1,10 +1,11 @@
 # youtube-dl-assist
 Download videos through youtube-dl with less operations and commands
 ***
-###中文:[README_zh_cn]()
-###THIS IS NOT A GUI FOR  youtube-dl
+### 中文:[README_zh_cn](github.com)
+### THIS IS NOT A GUI FOR youtube-dl
 A little tool which assembleed some frequently used commands
 Mainly for self use
+Make sure you are already install youtube-dl and ffmpeg before using it.
 
 
-####youtube-dl:github.com/ytdl-org/youtube-dl
+#### youtube-dl:github.com/ytdl-org/youtube-dl
